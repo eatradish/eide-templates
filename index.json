@@ -4,9 +4,9 @@
             "display_name": "MCU",
             "description": ""
         },
-        "MCU/PIC": {
-            "display_name": "PIC",
-            "description": "Microchip"
+        "MCU/PIC/PIC32": {
+            "display_name": "PIC32",
+            "description": "PIC 32bit"
         }
     },
     "template_list": [
@@ -15,7 +15,7 @@
             "display_name": "PIC32MZ1024EFG144 Demo",
             "version": "1.0",
             "category": [
-                "MCU/PIC"
+                "MCU/PIC/PIC32"
             ],
             "author": "eatradish"
         }
