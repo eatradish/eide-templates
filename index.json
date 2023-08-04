@@ -7,6 +7,10 @@
         "MCU/PIC/PIC32": {
             "display_name": "PIC32",
             "description": "PIC 32bit"
+        },
+        "MCU/gemini": {
+            "display_name": "gemini",
+            "description": "Gemini Development Board"
         }
     },
     "template_list": [
@@ -16,6 +20,15 @@
             "version": "1.0",
             "category": [
                 "MCU/PIC/PIC32"
+            ],
+            "author": "eatradish"
+        },
+        {
+            "file_name": "gemini.ept",
+            "display_name": "Gemini Development Board Demo",
+            "version": "1.0",
+            "category": [
+                "MCU/gemini"
             ],
             "author": "eatradish"
         }
